@@ -1,6 +1,8 @@
-# Bootcamp MRV Front End SPA Developer  21 atividades - 81 hrs
+# Bootcamp MRV Front End SPA Developer 
 
 Pela Digital Innovation One
 
-No Bootcamp MRV Front End SPA Developer você vai aprender com a gente os conceitos de desenvolvimento de software para criar soluções digitais, de desenvolvimento Front-end e ReactJS para atuar em projetos de desenvolvimento web e de componentes da interface de usuários. Esse evento faz parte do programa Órbi Academy Techboost, iniciativa da DIO junto ao Órbi Conecta, um dos principais hubs de inovação do Brasil. O Órbi Academy Techboost, é um dos maiores programas brasileiros de formação em carreiras de tecnologia e irá distribuir mais de 130 mil bolsas de estudo até 2022, impactando toda a comunidade tech brasileira.
-
+Projeto 1: Recriando a Interface do Netflix - Foram utilizadas tecnologias simples como HTML5, CSS3 e JavaScript.
+  
+Link: https://elaine-fullstackdeveloper.github.io/Recriando-Interface-do-Netflix/
+Repositóŕio: https://github.com/Elaine-FullStackDeveloper/Recriando-Interface-do-Netflix
