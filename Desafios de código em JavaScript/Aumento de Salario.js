@@ -38,5 +38,27 @@ Exemplo de Entrada 	|  Exemplo de Saída
  -----------------------------------------------
 */
 
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
+var lines = input.split('\n');
 
+var salario = parseFloat(lines.shift());
+
+if(salario <= 400.00){
+    percentual = 15; 
+}else if(salario <= 800.00){
+    percentual = 12;
+}else if(salario <= 1200.00){
+    percentual = 10;
+}else if(salario <= 2000.00){
+    percentual = 7;
+}else if(salario > 2000.00){
+    percentual = 4;
+}
+  
+var reajuste = salario*(percentual/100);
+var salarioNovo = salario + reajuste;
+     
+console.log("Novo salario: " + salarioNovo.toFixed(2));
+console.log("Reajuste ganho: " + reajuste.toFixed(2));
+console.log("Em percentual: " + percentual + " %");
 
