@@ -10,18 +10,12 @@
          <strong>Recriando a Interface do Netflix</strong><br/>
          Link: https://elaine-fullstackdeveloper.github.io/Recriando-Interface-do-Netflix/<br/>
          Repositóŕio: https://github.com/Elaine-FullStackDeveloper/Recriando-Interface-do-Netflix<br/><br/>
-        
-        <strong>Recriando a Interface do Netflix</strong><br/>
-         Link: https://elaine-fullstackdeveloper.github.io/Recriando-Interface-do-Netflix/<br/>
-         Repositóŕio: https://github.com/Elaine-FullStackDeveloper/Recriando-Interface-do-Netflix<br/><br/>
-        
-        <strong>Recriando a Interface do Netflix</strong><br/>
-         Link: https://elaine-fullstackdeveloper.github.io/Recriando-Interface-do-Netflix/<br/>
-         Repositóŕio: https://github.com/Elaine-FullStackDeveloper/Recriando-Interface-do-Netflix<br/><br/>
-        
+        </p> 
+       <p align="left"> 
        <strong>Criando um site para encontrar restaurantes usando Google Maps que consulta API do Google</strong><br/>
        Repositóŕio:https://github.com/Elaine-FullStackDeveloper/Search-Restaurant<br/><br/>
-      
+       </p> 
+      <p align="left">
       <strong>Criando um front-end totalmente componentizado na prática com ReactJS</strong><br/>
       Repositóŕio:https://github.com/Elaine-FullStackDeveloper/Front-End-totalmente-componentizado-na-pratica-com-ReactJS<br/><br/>
       </p>   
