@@ -5,9 +5,6 @@
           <img src=”https://hermes.digitalinnovation.one/tracks/2ec58739-7126-48e3-8be3-4a552d7819a9.png” width="200px" />
        <h3>Pela Digital Innovation One</h3>
        </center>
-       <a> No Bootcamp MRV Front End SPA Developer foi ensinado os conceitos de desenvolvimento de software para criar soluções digitais, de desenvolvimento Front-end e ReactJS para atuar em projetos de desenvolvimento web e de componentes da interface de usuários. Esse bootcamp faz parte do programa Órbi Academy Techboost, iniciativa da DIO junto ao Órbi Conecta, um dos principais hubs de inovação do Brasil.
-       </a>
-    
      <p align="left"><h4>Projetos:</h4><br/>
          <strong>Recriando a Interface do Netflix</strong><br/>
          Link: https://elaine-fullstackdeveloper.github.io/Recriando-Interface-do-Netflix/<br/>
