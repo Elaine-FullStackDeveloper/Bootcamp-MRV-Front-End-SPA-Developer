@@ -1,12 +1,3 @@
- 
-
-Pela Digital Innovation One
-
-Projeto 1: Recriando a Interface do Netflix - Foram utilizadas tecnologias simples como HTML5, CSS3 e JavaScript.
-  
-Link: https://elaine-fullstackdeveloper.github.io/Recriando-Interface-do-Netflix/
-Repositóŕio: https://github.com/Elaine-FullStackDeveloper/Recriando-Interface-do-Netflix
-
 <!DOCTYPE html>
 <html lang="pt-br">
     <body>
@@ -16,13 +7,13 @@ Repositóŕio: https://github.com/Elaine-FullStackDeveloper/Recriando-Interface-
        <h4>Pela Digital Innovation One</h4>
      </center>
      <p>Projetos:<br/><br/>
-       <h5>Recriando a Interface do Netflix</h5>
+       <a>Recriando a Interface do Netflix</a>
          Link: https://elaine-fullstackdeveloper.github.io/Recriando-Interface-do-Netflix/<br/>
          Repositóŕio: https://github.com/Elaine-FullStackDeveloper/Recriando-Interface-do-Netflix<br/>
-      <h5>Criando um site para encontrar restaurantes usando Google Maps que consulta API do Google</h5>
+       <a>Criando um site para encontrar restaurantes usando Google Maps que consulta API do Google</a>
        Repositóŕio:https://github.com/Elaine-FullStackDeveloper/Search-Restaurant
       
-      <h5>Criando um front-end totalmente componentizado na prática com ReactJS</h5>
+      <a>Criando um front-end totalmente componentizado na prática com ReactJS</a>
       Repositóŕio:https://github.com/Elaine-FullStackDeveloper/Front-End-totalmente-componentizado-na-pratica-com-ReactJS
                            
     </body>
