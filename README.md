@@ -6,7 +6,7 @@
           <img src=”https://hermes.digitalinnovation.one/tracks/2ec58739-7126-48e3-8be3-4a552d7819a9.png” width="200px" />
        <h4>Pela Digital Innovation One</h4>
      </center>
-     <p align="left"><h3>Projetos:</h3><br/><br/>
+     <p align="left"><h3>Projetos:</h3><br/>
          <strong>Recriando a Interface do Netflix</strong><br/>
          Link: https://elaine-fullstackdeveloper.github.io/Recriando-Interface-do-Netflix/<br/>
          Repositóŕio: https://github.com/Elaine-FullStackDeveloper/Recriando-Interface-do-Netflix<br/><br/>
